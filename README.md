@@ -3,8 +3,8 @@
 The Textual Reminder App is a native iOS application developed using SwiftUI and Swift, incorporating Core Data for persistent local storage. This intuitive app allows users to input and save texts, which are subsequently utilized to generate local notifications at two-hour intervals, showcasing a random saved text as a thoughtful reminder.
 
 <p align="center">
- <img src="https://github.com/Sumayya07/OmoiAssignment/assets/95580926/51c0a7f4-b96a-4ce8-9767-ca4b64da2920" width="27.3%">
- <img src="https://github.com/Sumayya07/OmoiAssignment/assets/95580926/81a7cdb0-046a-48e9-8fa2-a0019bda17b7" width="27.3%">
+ <img src="https://github.com/Sumayya07/OmoiAssignment/assets/95580926/51c0a7f4-b96a-4ce8-9767-ca4b64da2920" width="50%">
+ <img src="https://github.com/Sumayya07/OmoiAssignment/assets/95580926/81a7cdb0-046a-48e9-8fa2-a0019bda17b7" width="50%">
 </p>
 
 ## ✨ Features
